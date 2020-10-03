@@ -1,0 +1,12 @@
+body{
+    background-color: #292929;
+    color: white;
+}
+
+a {
+  color: hotpink;
+}
+
+a:visited {
+  color: green;
+}
